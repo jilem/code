@@ -1,0 +1,169 @@
+<!doctype html>
+<!--
+Edited: pablo ponce
+Name       : Orange And Black
+Description: A two-column, fixed-width design for 1024x768 screen resolutions.
+Version    : 1.0
+Released   : 20090203
+Thank you to FTC
+-->
+<head>
+<meta charset="utf-8">
+<title>night life</title>
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<link href="style.css" rel="stylesheet" type="text/css" media="screen">
+    </head>
+<body>
+<div id="header-wrapper">
+	<div id="header">
+	  <div id="menu">
+			<ul>
+				<li class="current_page_item"><a href="index.html">Home</a></li>
+		<li><a href="neighborhood.html">Neighborhood</a></li>
+        <li><a href="nightlife.html">Nightlife</a></li>
+		<li><a href="todo3.html">To DO</a></li>
+		<li><a href="transportation.html">Transportation</a></li>
+		<li><a href="event.html">Event</a></li>					
+        <li><a href="arts.html">Arts&amp;Culture</a></li>
+			</ul>
+	  </div>
+		<!-- end #menu --><!-- end #search -->
+	</div>
+	<!-- end #header -->
+</div>
+<!-- end #header-wrapper -->
+<div id="page">
+	<div id="logo">
+		<h1><a href="index.html">San Fran<span class="text1">Tours</span></a></h1>
+		<p><em><a href="http://www.freecsstemplates.org"></a></em></p>
+	</div>
+	<hr>
+	<p>
+	  <!-- end #logo -->
+  Nightlife</p>
+<div id="content">
+<div class="post">
+			<h2 class="title">Nightlife at the Academy of Science</h2>
+		  <div class="entry">          
+	 
+<table width="100%" border="0" cellspacing="0" cellpadding="120">
+  <tr>
+    <td style="background-image:url(images/academy_science.jpg)"><br>
+    </br></td>
+  </tr>
+</table>
+	
+<p>Every Thursday night, music, creatures and cocktails come together for NightLife at the California Academy of Sciences. Each week features a live band or DJ, and a unique theme  from salsa dancing to sustainable seafood and beyond. Delivering the wonders of land, space, and water in an exquisitely wrapped package, the California Academy of Sciences brings the above, below, and beyond of the entire world to life. Serving as one of the largest, innovative, and most eco-friendly natural history museums in the world, this Golden Gate Park jewel glistens with the promise of prehistoric sensations, astronomical exploits, dazzling gems and minerals, and living examples of extraordinary plants and animals. Come see the Academy in a whole new light!<br>
+    55 Music Concourse Drive (located right between Martin Luther King Jr. Blvd. and JFK Drive)<br>
+    <STRONG>Phone :</STRONG> (415) 379-8000 or visit the <a href="http://www.calacademy.org/events/nightlife/">website</a><br>
+    Monday – Saturday (9:30am – 5pm); Sunday (11
+    
+    am – 5pm)<br>
+    <STRONG>Admission Price: </STRONG>Adult $29.95<BR>
+      Senior (ages 65 and over) $24.95<BR>
+      Student $24.95
+      <BR>
+      Youth (ages 12-17) $24.95<BR>
+      Child (ages 4-11) $19.95<BR>
+    Ages 3 and under FREE<br>
+    The California Academy of Sciences offers free entry December 9, 2012</span></p></p>
+		  </div>
+	</div>
+    <div class="post">
+			<h2 class="title">Pandora Karaoke &amp; Bar</h2>
+		  <div class="entry">          
+	 
+<table width="100%" border="0" cellspacing="0" cellpadding="120">
+  <tr>
+    <td style="background-image:url(images/7.jpg)"><br>
+    </br></td>
+  </tr>
+</table>
+	
+<p>
+Is the largest and most unique late-night karaoke &amp; full-bar venue in the city and with vast array of song selections come in a variety of languages and with thousands of songs at one's disposal, everyone is sure to find the perfect tune. And it offers a great selection of food and alcoholic beverages and is the perfect   environment for birthdays, corporate events, get-togethers, and group fun. Visit us and see for yourself just how much fun you'll have at Pandora Karaoke &amp; Bar! Address: 177 Eddy Street San Francisco, CA 94102 Phone: (415) 359-1888<br>
+      Tuesday thru Sunday: 6pm - 2am<BR>
+      <em>Enjoy 50% off room rates and plenty of drink specials!</em><br>
+      <em>Every Wednesday and Thursday buy one bottle and receive 1 hour private karaoke room rental for free!</em></span></p>
+		  </div>
+	</div>
+    
+    <div class="post">
+			<h2 class="title">The Parlor			</h2>
+	  <div class="entry">          
+	 
+<table width="100%" border="0" cellspacing="0" cellpadding="120">
+  <tr>
+    <td style="background-image:url(images/parlor-sf.jpg)"><br>
+    </br></td>
+  </tr>
+</table>
+	
+<p>Is a waterfront bar that brings back the city&amp;rsquo;s early 1900s persona in style while offering all of the best nightclub accoutrements—including happy hour specials, world-class DJs, special events and live bands—for the modern nightlife enthusiast. The menus offer everything from light bites at happy hour to specialty cocktails to a lengthy list of libations for bottle service.<br>
+Address: 2801 Leavenworth St,                                                                                                    San Francisco<br>
+Phone: 415-775-5110<br>
+Mon-Fri (5pm-2am)<br>
+Sat-Sun (1pm-2am) </p>
+      </div>
+	</div>
+    <div class="post">
+			<h2 class="title">1015 FOLSOM</h2>
+	  <div class="entry">          
+	 
+<table width="100%" border="0" cellspacing="0" cellpadding="95">
+  <tr>
+    <td style="background-image:url(images/1015.jpg)"><br>
+    </br></td>
+  </tr>
+</table>
+	
+<p>This is SF’s oldest, biggest, and most worldly known nightclub. With 4 to 5 different rooms, all with different genres of electronic music, from the breaks and Drum&amp;Bass in the basement, to the 80’s flavor in the front room, to the tribal upstairs and you can’t miss the main room that’s where the DJ is who you came to hear.  This is the place that brings in the big name DJ’s, so if you want to hear the like of Oakey, PVD, Digweed, Maas, Tiesto, this is where they usually play. It is big, it gets crowded, and it gets hot and Free b4 10:15pm.<br>
+ Address: 1015 Folsom  or visit the <a href="http://www.1015.com">website</a> for more update events.</p>
+	    </div>
+	</div>
+                 <div class="post">
+			<h2 class="title">Ruby Skye	</h2>
+		  <div class="entry">          
+	 
+<table width="100%" border="0" cellspacing="0" cellpadding="120">
+  <tr>
+    <td style="background-image:url(images/ruby_skye.jpg)"><br>
+    </br></td>
+  </tr>
+</table>
+	
+<p>
+The popular nightclub in San Francisco, California. The nightclub is housed in the Native Sons of the Golden West building at 420 Mason Street. Downtown's most glamorous and colossal nightspot led a previous life as an 1890s   Victorian playhouse, and many of the beautiful Art Nouveau trimmings are still   in place. Mission District clubbers won't go near the place -- way too disco and   full of the &quot;bridge and tunnel&quot; crowd -- but for tourists it's a safe bet for a   dance-filled night in the city. The light and sound system here is amazing, and   on weekend nights the huge ballroom floor is packed with sweaty bodies dancing   to thumping DJ beats or live music. When it's time to cool off you can chill on   the mezzanine or fire up in the smoking room. For more information call: 415/693-0777 or visit the <a href="http://www.rubyskye.com">website</a> </p>
+		  </div>
+	</div>
+    
+     <div class="post">
+			<h2 class="title">Tonga Room &amp; Hurricane Bar</h2>
+		  <div class="entry">          
+	 
+<table width="100%" border="0" cellspacing="0" cellpadding="120">
+  <tr>
+    <td style="background-image:url(images/tonga_2.jpg)"><br>
+    </br></td>
+  </tr>
+</table>
+
+<p>Offers a tropical and festive atmosphere with live entertainment, dancing and a rain storm. Tonga Room serves exceptional Pacific Rim Asian Cuisine in a tropical setting and it is the perfect escape after a busy day of meetings or in town visiting for the first time and be sure to drop by and try the Mai Tai, regularly recognized as the City's best!<br>
+
+  <strong>Address:</strong> 950 Mason St. San Francisco, CA  94108 <br>
+  <strong>Phone:</strong> (415) 772-5278<br>
+
+  <strong>Email: </strong>tongaroom@fairmont.com </p>
+	   </div>
+</div>
+                
+<!-- end #sidebar -->
+<div style="clear: both;"> <a href="http://www.freecsstemplates.org/">Big thanks to FTC</a></p></div>
+    
+    <div id="footer">
+	<p>Student Project by: &bull;David Mackey&bull; Pablo Ponce&bull; Meli Naseri&bull; Santos Martinez&bull; Kim Williams&bull; Brandon Nelson&bull; Shaobo Zhang&bull; Christopher Tarlton&bull;<a href="http://www.freecsstemplates.org"> 2012 </a></p>
+</div>
+<!-- end #footer -->
+</body>
+</html>
